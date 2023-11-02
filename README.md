@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+## I�m Antonella and I am program student. I hope to surprise you with my projects! 
 
 <!--
 **NellaCoder/NellaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
